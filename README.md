@@ -1,6 +1,6 @@
 Task 2 
 
-Prepared a dashboard with differnt data insights and data visualiztions.
+Prepared a dashboard with different data insights and data visualiztions from a Superstore dataset.
 
 Those visualiztions are:
 
